@@ -6,3 +6,5 @@ I'm a Brazilian who lives in Germany and recently bought a laptop here. I soon r
 
 If you type AltGr and + two times it it outputs just the tilda like that: ~.
 As a bonus I also added the possibility of typing ñ the same way you woul type ã.
+
+After the instalation you have to add the custom layout in the Settings menu in "Time & Language" and in the "Devices" -> "Typing" -> "Advanced keyboard settings" menu.
